@@ -1,1 +1,1 @@
-www.taiwansnow.com
+echo "www.taiwansnow.com" > public/CNAME
