@@ -2,21 +2,31 @@ function Product() {
   return (
     <section id="product" className="section">
       <div className="container">
-        <h3>What We Offer</h3>
+        <h2>What We Offer</h2>
+
         <div className="card-grid">
           <div className="card">
-            <h4>Snow Ice Cups</h4>
-            <p>Perfect for farmers markets and quick service events.</p>
+            <h3>Snow Ice Cups</h3>
+            <p>
+              Perfect for farmers markets, pop-ups, and quick service events.
+              Our snow ice cups are easy to enjoy on the go.
+            </p>
           </div>
 
           <div className="card">
-            <h4>Private Events</h4>
-            <p>Great for birthdays, school events, and parties.</p>
+            <h3>Private Events</h3>
+            <p>
+              Great for birthdays, school events, parties, and celebrations.
+              Bring a fun and refreshing dessert experience to your guests.
+            </p>
           </div>
 
           <div className="card">
-            <h4>Custom Flavors</h4>
-            <p>Seasonal flavors and unique menu ideas for special occasions.</p>
+            <h3>Custom Flavors</h3>
+            <p>
+              We offer seasonal flavors and special menu ideas for unique
+              events and custom orders.
+            </p>
           </div>
         </div>
       </div>
