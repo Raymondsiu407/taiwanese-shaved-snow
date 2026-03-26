@@ -1,5 +1,5 @@
 const businessInfo = {
-  name: "Taiwanese Shaved Snow",
+  name: "Taiwan Shaved Snow",
   tagline: "Authentic Taiwanese Shaved Snow",
   description:
     "Founded by three college students, we hope to bring authentic Taiwanese shaved ice to America.",
